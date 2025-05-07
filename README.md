@@ -20,10 +20,10 @@ Experiences
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=light)](https://skillicons.dev)
 
 ###  Data Analytics
-<img src="https://github.com/joshuafronda/joshuafronda/tree/main/assets/orange-data-mining.svg" alt="Orange Data Mining" title="Orange Data Mining" width="48">&nbsp;
-<img src="https://github.com/joshuafronda/joshuafronda/tree/main/assets/power-bi-desktop.svg" alt="Power BI Desktop" title="Power BI Desktop" width="48">&nbsp;
-<img src="https://github.com/joshuafronda/joshuafronda/tree/main/assets/ms-excel-svgrepo-com.svg" alt="MS Excel" title="MS Excel" width="48">&nbsp;
-<img src="https://github.com/joshuafronda/joshuafronda/tree/main/assets/looker-studio.svg" alt="Looker Studio" title="Looker Studio" width="48">
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/orange-data-mining.svg" alt="Orange Data Mining" title="Orange Data Mining" width="48">&nbsp;
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/power-bi-desktop.svg" alt="Power BI Desktop" title="Power BI Desktop" width="48">&nbsp;
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-excel-svgrepo-com.svg" alt="MS Excel" title="MS Excel" width="48">&nbsp;
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/looker-studio.svg" alt="Looker Studio" title="Looker Studio" width="48">
 
 https://github.com/joshuafronda/joshuafronda/tree/main/assets
 
