@@ -13,7 +13,7 @@ Experiences
 ###  Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress&theme=light)](https://skillicons.dev)
 
-### Mobile App Development
+###  Mobile App Development
 [![React Native](https://skillicons.dev/icons?i=react,flutter,dart&theme=light)](https://reactnative.dev/)  
 
 ###  Database
@@ -25,8 +25,6 @@ Experiences
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-excel-svgrepo-com.svg" alt="MS Excel" title="MS Excel" width="48">&nbsp;
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/looker-studio.svg" alt="Looker Studio" title="Looker Studio" width="48">
 
-https://github.com/joshuafronda/joshuafronda/tree/main/assets
-
 ###  UI/UX
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
@@ -34,7 +32,7 @@ https://github.com/joshuafronda/joshuafronda/tree/main/assets
 Knowledge with
 ---
 ###  LEMP Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,nginx,mariadb,postgre,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,mysql,php&theme=light)](https://skillicons.dev)
 
 ---
 
