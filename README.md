@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/header.gif" alt="Header" width="100%">
+[<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/header.gif" alt="Header" width="100%">](https://www.facebook.com/joshua.fronda.7)
 
 ## About Me
 - A graduating student from Batangas State University - The National Engineering University
