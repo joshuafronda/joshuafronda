@@ -30,10 +30,7 @@ Knowledge with
 ###  LEMP Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx,mariadb,postgre,php&theme=light)](https://skillicons.dev)
 
-
 ---
-###  Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,dart,java,python&theme=light)](https://skillicons.dev)
 
 [![](https://visitcount.itsvg.in/api?id=joshuafronda&icon=0&color=6)](https://visitcount.itsvg.in)
 
