@@ -11,7 +11,8 @@ Experiences
 ---
 
 ###  Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts&theme=light)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/xampp.svg" alt="Orange Data Mining" title="Orange Data Mining" width="48">&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts&theme=light)](https://skillicons.dev) 
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/xampp.svg" alt="Xampp" title="Xampp" width="48">&nbsp;
 
 ###  Mobile App Development
 [![React Native](https://skillicons.dev/icons?i=react,flutter,dart&theme=light)](https://skillicons.dev)
