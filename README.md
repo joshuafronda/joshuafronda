@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/header.gif" alt="Header" width="100%">
+
 ##  Hi, I'm Joshua Fronda
 
 ## About Me
@@ -35,6 +37,12 @@ Knowledge with
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx,mysql,php&theme=light)](https://skillicons.dev)
 
 ---
+MS Productivity Tools
+---
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-excel-svgrepo-com.svg" alt="MS Excel" title="MS Excel" width="48">&nbsp;
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-access.svg" alt="MS Access" title="MS Access" width="48">&nbsp;
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-powerpoint.svg" alt="MS Powerpoint" title="MS Powerpoint" width="48">&nbsp;
+<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/word.svg" alt="MS Word" title="MS Word" width="48">&nbsp;
 
 [![](https://visitcount.itsvg.in/api?id=joshuafronda&icon=0&color=6)](https://visitcount.itsvg.in)
 
