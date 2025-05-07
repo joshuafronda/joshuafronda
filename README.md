@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/header.gif" alt="Header" width="100%">
 
-##  Hi, I'm Joshua Fronda
-
 ## About Me
 - A graduating student from Batangas State University - The National Engineering University
 - Taking Bachelor of Science in Information Technology Major in Business Analytics
