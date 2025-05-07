@@ -1,37 +1,39 @@
-## 👋 Hi, I'm Joshua Fronda
-
-<!--
-**joshuafronda/joshuafronda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+##  Hi, I'm Joshua Fronda
 
 ## About Me
-- 🎓 A graduating student from Batangas State University - The National Engineering University
-- 📘 Taking Bachelor of Science in Information Technology Major in Business Analytics
-- 💻 Full-stack Developer | UI/UX Designer | 
-- 😄 He/Him
+- A graduating student from Batangas State University - The National Engineering University
+- Taking Bachelor of Science in Information Technology Major in Business Analytics
+- Web Dev / Mobile Dev | UI/UX Designer 
+- He/Him
 
 ---
+Experiences
+---
 
-## 🧠 Skills & Tech Stack
-
-### 👨‍💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,dart,java,python&theme=light)](https://skillicons.dev)
-
-### 🌐 Web Development
+###  Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress&theme=light)](https://skillicons.dev)
 
-### 🛢️ Database Management
+### Mobile App Development
+[![React Native](https://skillicons.dev/icons?i=react,flutter,dart&theme=light)](https://reactnative.dev/)  
+
+###  Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=light)](https://skillicons.dev)
 
-### 🧰 Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,androidstudio,flutter&theme=light)](https://skillicons.dev)<br>
-🖥️ XAMPP, Cursor, Power BI, Orange, Google Colab, Nginx, Ubuntu Linux (Debian-based), MS Office (Word, Excel)
+###  Data Analytics
 
-### 🧩 Other Expertise
-- 🧠 Data Analytics, Cybersecurity, Networking, Project Management
-- 🛠️ Troubleshooting, UI/UX Design, Graphic Design
+###  UI/UX
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 ---
+Knowledge with
+---
+###  LEMP Stack
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,mariadb,postgre,php&theme=light)](https://skillicons.dev)
+
+
+---
+###  Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,dart,java,python&theme=light)](https://skillicons.dev)
 
 [![](https://visitcount.itsvg.in/api?id=joshuafronda&icon=0&color=6)](https://visitcount.itsvg.in)
 
