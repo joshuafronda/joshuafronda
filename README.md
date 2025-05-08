@@ -11,10 +11,8 @@ Experiences
 ---
 
 ###  Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts&theme=light)](https://skillicons.dev)&nbsp;
-=======
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts,vite&theme=light)](https://skillicons.dev) 
->>>>>>> ede2914 (update)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts,vite,php&theme=light)](https://skillicons.dev)&nbsp;
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/xampp.svg" alt="Xampp" title="Xampp" width="48">&nbsp;
 
 ###  Mobile App Development
