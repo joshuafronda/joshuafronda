@@ -11,8 +11,7 @@ Experiences
 ---
 
 ###  Web Development
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts,vite,php&theme=light)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,wordpress,ts&theme=light)](https://skillicons.dev)&nbsp;
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/xampp.svg" alt="Xampp" title="Xampp" width="48">&nbsp;
 
 ###  Mobile App Development
@@ -37,8 +36,9 @@ Knowledge with
 ###  LEMP Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx,mysql,php&theme=light)](https://skillicons.dev)
 
-###  MS Productivity Tools
-
+---
+MS Productivity Tools
+---
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-excel-svgrepo-com.svg" alt="MS Excel" title="MS Excel" width="48">&nbsp;
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-access.svg" alt="MS Access" title="MS Access" width="48">&nbsp;
 <img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/ms-powerpoint.svg" alt="MS Powerpoint" title="MS Powerpoint" width="48">&nbsp;
