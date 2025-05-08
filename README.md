@@ -31,8 +31,9 @@ Experiences
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 ---
-###  Knowledge with
+Knowledge with
 ---
+
 ###  LEMP Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx,mysql,php&theme=light)](https://skillicons.dev)
 
