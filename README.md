@@ -1,9 +1,8 @@
 [<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/Headerv2.gif" alt="Header" width="100%">](https://www.facebook.com/jshfronda)
 
 ## About Me
-- A graduating student from Batangas State University - The National Engineering University
 - Taking Bachelor of Science in Information Technology Major in Business Analytics
-- Web Dev / Mobile Dev | UI/UX Designer 
+- Programmer / Developer / Data Analyst
 - He/Him
 
 ---
