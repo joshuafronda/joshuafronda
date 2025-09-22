@@ -3,6 +3,7 @@
 ## About Me
 - Bachelor of Science in Information Technology Major in Business Analytics
 - Programmer / Developer / Data Analyst
+- I've started my Graduate School. Master in Information Technology 2025 at BatstateU - TNEU
 
 ---
 Experiences
