@@ -2,7 +2,7 @@
 
 ## About Me
 - Bachelor of Science in Information Technology Major in Business Analytics
-- Programmer / Developer / Data Analyst
+- Software Engineer | Data Analyst
 - IT Instructor (September 2025 – Present)
 - Currently pursuing Master in Information Technology (2025 – Present) at BatStateU – TNEU
 ---
