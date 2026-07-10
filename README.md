@@ -1,8 +1,8 @@
 [<img src="https://raw.githubusercontent.com/joshuafronda/joshuafronda/main/assets/Headerv2.gif" alt="Header" width="100%">](https://www.facebook.com/jshfronda)
 
 ## About Me
-- Bachelor of Science in Information Technology Major in Business Analytics
 - Software Development
+- Bachelor of Science in Information Technology Major in Business Analytics
 - Currently pursuing Master in Information Technology (2025 – Present) at BatStateU – TNEU
 ---
 Experiences
